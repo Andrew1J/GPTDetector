@@ -1,0 +1,11 @@
+{
+    "name": "GPT Detector",
+    "version": "1.0.0",
+    "description": "GPT Detector!",
+    "manifest_version": 3,
+    "author": "Andrew Juang",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "GPT Detector"
+    }
+}
